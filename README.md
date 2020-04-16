@@ -4,4 +4,4 @@ Inittially, if you dont know anything about the animated elements with UIkit, we
 
 We hope that we have helped, and if you want to use a infinite runtime execution, especially in games, its better to use SpriteKit.
 
-By @lfbp07 and @julianoctvaz
+By @lfbp07, @jlmchd and @julianoctvaz
