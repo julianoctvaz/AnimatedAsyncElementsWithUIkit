@@ -1,7 +1,7 @@
 # AnimatedAsyncElementsWithUIkit
 
-Firstly, if you dont know anything about the animated elements with UIkit, 
-we suggest strongly that you see the animatedElements.playground, and then, the Garden.playground.
+Inittially, if you dont know anything about the animated elements with UIkit, 
+we suggest strongly that you see fisrt the file AnimatedElements.playground, and then, Garden.playground.
 
 We hope that we have helped,
 
